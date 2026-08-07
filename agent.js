@@ -1,10 +1,5 @@
 #!/usr/bin/env node
-// v: aoa-ag9k-43
-// -31: all instruction copy (system prompt, mission prompt, memory-rewrite
-// prompt, handler-override wrappers) lifted verbatim into instructions.js;
-// this file now loads templates by name (AOA_TEMPLATE) and is stable
-// across research hypotheses.
-//
+// v: aoa-ag9k-44
 // ============================================================
 // AGE OF AGENTS® — Reference Agent Implementation
 // ============================================================
